@@ -8,7 +8,7 @@
 
 ## 📋 Descrição  
 
-O **Projeto DOMINÓ** é um jogo desenvolvido em **C**, com fins educativos e de entretenimento.  
+O **Projeto DOMINÓ** é um jogo desenvolvido em **C/C++**, com fins educativos e de entretenimento.  
 O jogo pode ser jogado:  
 
 - 👤 Sozinho contra a **CPU**  
